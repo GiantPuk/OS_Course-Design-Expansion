@@ -2,9 +2,8 @@
 
 ## 1. System Architecture
 
-```
+
 ![](./scheduler_architecture.png)
-```
 
 ## 2. Core Design Decisions
 
