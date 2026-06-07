@@ -2,7 +2,7 @@
 
 ## 1. System Architecture
 
-```markdown
+```
 ![](./scheduler_architecture.png)
 ```
 
