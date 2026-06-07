@@ -3,7 +3,7 @@
 ## 1. System Architecture
 
 ```
-<img width="1780" height="1480" alt="image" src="https://github.com/user-attachments/assets/550c2dee-4b68-4a34-9a1d-326a8d5ee457" />
+![](./scheduler_architecture.png)
 
 ```
 
